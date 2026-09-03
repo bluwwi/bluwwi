@@ -1,29 +1,50 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWticjk5bDBncmpkYnBhczU3eXE0YW9uN3ZsYzg2OGxqcWFvODRoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif" alt="Coding in action" width="100%" />
+## 👀 Me
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey, I'm Heet
+👋 I'm Heet, a full-stack developer who thinks his code is pretty. trust me it's REAL.
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Blockchain+Developer;Next.js+%26+Express+Expert;TypeScript+%26+Solidity+Master;Web3+%26+DeFi+Enthusiast;GSAP+%26+Framer+Motion+Wizard;Cloud+%26+Socket+Specialist&font=Fira%20Code&center=false&width=600&height=45&color=f75c7e&vCenter=true&size=22">
+☕ Let's build something better together...
 
----
+- 📧 Reach me via: **[heetvavadiya099@gmail.com](mailto:heetvavadiya099@gmail.com)**
+- 🌐 Portfolio: **[realblue.lol](https://www.realblue.lol)**
+- 📡 Connect with me: **[X](https://x.com/bluwixyz)** | **[LinkedIn](https://www.linkedin.com/in/xrealblue/)**
 
+## ✍️ Skills
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with Me
+- **Programming**: TypeScript, JavaScript, Rust, Go, Solidity, Python, SQL
+- **Frontend**: Next.js, React, Tailwind CSS, GSAP, Framer Motion, HTML5, CSS3
+- **Backend**: Node.js, Express, Axum (Rust), Bun, WebSocket, REST APIs
+- **Databases**: PostgreSQL, SQLite, MongoDB, Prisma, Drizzle, Redis
+- **Web3**: Solidity, DeFi, Ethers.js, Smart Contracts
+- **Cloud & DevOps**: Vercel, Docker, Nginx, Linux, Git, GitHub Actions
 
-🌐 **Portfolio:** [heet.pro](https://heet.pro) • 📝 **X:** [posts](https://x.com/0xheet) • 📧 **Email:** heetvavadiya099@gmail.com
+## 🚀 Projects
 
+- **[Blu3](https://github.com/bluwwi/blu3)** - Real-time collaborative music listening platform. Create rooms, queue songs, and listen together with synchronized playback. 150+ active users.
+- **[vcron](https://github.com/bluwwi/vcron)** - Lightweight self-hosted cron job scheduler for HTTP endpoints. Built in Rust with SQLite, runs on minimal resources.
+- **[blu3-server](https://github.com/bluwwi/blu3-server)** - Backend server for Blu3. REST + WebSocket protocol, real-time sync, multi-source audio streaming.
+- **[magic-mail](https://github.com/bluwwi/magic-mail)** - Temporary email service built in Rust.
+- **[Portfolio](https://github.com/bluwwi/Portfolio)** - Personal portfolio website.
+- **[gluwi](https://github.com/bluwwi/gluwi)** - Go-based project.
 
+## 💼 Work
 
+- `curr` Building **[Blu3](https://blu3.in)** — real-time music rooms
+- `prev` Full-stack developer — various client projects
+- `prev` Web3 & DeFi development
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%">
-  
-  ### 💖 Thanks for visiting! Let's connect and build something amazing together! 
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <img src="https://github-readme-stats.vercel.app/api?username=bluwwi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluwwi&theme=dark&hide_border=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluwwi&layout=compact&theme=dark&hide_border=true" height="165" />
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From [Heet](https://github.com/heetprox) with ❤️</i>
+  <i>⭐️ From <a href="https://github.com/bluwwi">Heet</a> with ❤️</i>
 </div>
