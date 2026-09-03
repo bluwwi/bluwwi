@@ -5,7 +5,7 @@
 ☕ Let's build something better together...
 
 - 📧 Reach me via: **[heetvavadiya099@gmail.com](mailto:heetvavadiya099@gmail.com)**
-- 🌐 Portfolio: **[realblue.lol](https://www.realblue.lol)**
+- 🌐 Portfolio: **[bluwi.xyz](https://bluwi.xyz)**
 - 📡 Connect with me: **[X](https://x.com/bluwixyz)** | **[LinkedIn](https://www.linkedin.com/in/xrealblue/)**
 
 ## ✍️ Skills
@@ -19,29 +19,19 @@
 
 ## 🚀 Projects
 
+- **[Gluwi](https://github.com/bluwwi/gluwi)** - Desktop AI coding agent built with Wails v3 (Go) + React 19. Chat with an agent that can read/write files, run shell commands, search code, fetch URLs, manage todos/goals, spawn subagents, and run scheduled background services.
 - **[Blu3](https://github.com/bluwwi/blu3)** - Real-time collaborative music listening platform. Create rooms, queue songs, and listen together with synchronized playback. 150+ active users.
 - **[vcron](https://github.com/bluwwi/vcron)** - Lightweight self-hosted cron job scheduler for HTTP endpoints. Built in Rust with SQLite, runs on minimal resources.
-- **[blu3-server](https://github.com/bluwwi/blu3-server)** - Backend server for Blu3. REST + WebSocket protocol, real-time sync, multi-source audio streaming.
 - **[magic-mail](https://github.com/bluwwi/magic-mail)** - Temporary email service built in Rust.
-- **[Portfolio](https://github.com/bluwwi/Portfolio)** - Personal portfolio website.
-- **[gluwi](https://github.com/bluwwi/gluwi)** - Go-based project.
+- **[Vaayu Jewels](https://vaayujewels.com)** - Full-stack jewelry e-commerce platform.
+- **[Kafinao](https://kafinao.realblue.lol)** - Design typography website, inspiration from New York Times & Awwwards.
 
 ## 💼 Work
 
-- `curr` Building **[Blu3](https://blu3.in)** — real-time music rooms
+- `curr` Contributing to open source projects
+- `curr` Builder at Buildspace Nights & Weekends (S5)
+- `prev` Building **[Blu3](https://blu3.in)** — real-time music rooms
 - `prev` Full-stack developer — various client projects
-- `prev` Web3 & DeFi development
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bluwwi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluwwi&theme=dark&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluwwi&layout=compact&theme=dark&hide_border=true" height="165" />
-</div>
 
 ---
 
