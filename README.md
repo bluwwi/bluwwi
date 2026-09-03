@@ -32,9 +32,3 @@
 - `curr` Builder at Buildspace Nights & Weekends (S5)
 - `prev` Building **[Blu3](https://blu3.in)** — real-time music rooms
 - `prev` Full-stack developer — various client projects
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/bluwwi">Heet</a> with ❤️</i>
-</div>
